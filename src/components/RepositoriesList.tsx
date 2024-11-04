@@ -1,6 +1,5 @@
 import { useState } from "react";
 import { useAction } from "../hooks/useAction";
-import { useSelector } from "react-redux";
 import { RootState } from "../redux-state/reducers/combined-index";
 import { useTypedSelector } from "../hooks/useTypedSelector";
 
